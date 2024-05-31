@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLflow/test2/mlruns/0/fa102fbd2d234c6fa115f88df86af804/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa102fbd2d234c6fa115f88df86af804
+run_name: sneaky-bass-989
+run_uuid: fa102fbd2d234c6fa115f88df86af804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716613292243
+status: 1
+tags: []
+user_id: Karma
