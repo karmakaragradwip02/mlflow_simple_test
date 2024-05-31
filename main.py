@@ -9,6 +9,8 @@ from sklearn.linear_model import ElasticNet
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.model_selection import train_test_split
 
+import dvc
+
 import mlflow
 import mlflow.sklearn
 from mlflow.models import infer_signature
